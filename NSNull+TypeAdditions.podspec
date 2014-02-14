@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "NSNull+TypeAdditions"
-  s.version          = "y"
+  s.version          = "1.0.2"
   s.summary          = "A category on NSNull that auto-sanitizes API values."
   s.license          = 'MIT'
   s.homepage         = 'http://www.harlanhaskins.com'
